@@ -1,0 +1,9 @@
+---
+label: Projects
+hide_body: false
+display_field: project_name
+fields:
+- type: text
+  name: project_name
+  label: Project Name
+  description: Name of the project
