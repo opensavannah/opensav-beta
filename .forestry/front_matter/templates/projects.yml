@@ -7,3 +7,5 @@ fields:
   name: project_name
   label: Project Name
   description: Name of the project
+pages:
+- src/pages/openbudgetsav.md
